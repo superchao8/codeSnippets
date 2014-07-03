@@ -3,29 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>cframe</string>
+	<string>imageNamed</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>CGRect frame = (CGRect){
-    .origin.x = &lt;#x#&gt;,
-    .origin.y = &lt;#y#&gt;,
-    .size.width =  &lt;#width#&gt;,
-    .size.height = &lt;#height#&gt;
-};</string>
+	<string>[UIImage imageNamed:@"&lt;#imageName#&gt;"]</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>82A6A96C-637E-4415-8EA9-3432DB64E848</string>
+	<string>FAAD94BE-49F7-47ED-9AA1-CF308B193A28</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>CGRect frame</string>
+	<string>UIImage imageNamed</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>frame</string>
+	<string>UIImage imageNamed</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
